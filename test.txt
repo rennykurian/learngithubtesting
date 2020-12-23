@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is A0DD-743C
+
+ Directory of D:\files\testgit
+
+12/23/2020  10:39 AM    <DIR>          .
+12/23/2020  10:39 AM    <DIR>          ..
+12/23/2020  10:39 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  707,124,125,696 bytes free
